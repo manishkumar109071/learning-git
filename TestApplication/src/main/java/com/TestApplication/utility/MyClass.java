@@ -7,7 +7,7 @@ public class MyClass {
 
 	public static void main(String[] args) {
 		List<String> arrayList = new ArrayList();
-		System.out.println();
+		System.out.println(arrayList);
 
 	}
 
